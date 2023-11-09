@@ -1638,7 +1638,7 @@ QtObject {
         property string prescriptionBottleMedical: "qrc:/QuickFontAwesome/solid/prescription-bottle-medical.svg"
         property string prescriptionBottle: "qrc:/QuickFontAwesome/solid/prescription-bottle.svg"
         property string prescription: "qrc:/QuickFontAwesome/solid/prescription.svg"
-        property string print: "qrc:/QuickFontAwesome/solid/print.svg"
+        property string _print: "qrc:/QuickFontAwesome/solid/print.svg"
         property string pumpMedical: "qrc:/QuickFontAwesome/solid/pump-medical.svg"
         property string pumpSoap: "qrc:/QuickFontAwesome/solid/pump-soap.svg"
         property string puzzlePiece: "qrc:/QuickFontAwesome/solid/puzzle-piece.svg"
