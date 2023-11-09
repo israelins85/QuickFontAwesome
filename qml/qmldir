@@ -1,0 +1,3 @@
+module <QuickFontAwesome>
+
+singleton QuickFontAwesome 1.0 QuickFontAwesome.qml
